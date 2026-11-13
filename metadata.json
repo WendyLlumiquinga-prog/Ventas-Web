@@ -1,0 +1,6 @@
+{
+  "name": "Cotizador Chaide",
+  "description": "Herramienta oficial de cotización en tiempo real para el equipo de ventas online de Chaide, con consulta de precios en vivo en www.chaide.com, reglas de envío automáticas y formato para WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
